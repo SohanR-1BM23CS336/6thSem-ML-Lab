@@ -1,7 +1,0 @@
-echo "# 6thSem-ML-Lab" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SohanR-1BM23CS336/6thSem-ML-Lab.git
-git push -u origin main
